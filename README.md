@@ -9,7 +9,7 @@ The Aigram library/wrapper can be used interface with the Telegram library:
 https://github.com/airgram/airgram
 
 Example:
-APP_ID=[APP_ID] APP_HASH=[APP_HASH= TDLIB_COMMAND=ibtdjson.so node test.js
+APP_ID=[APP_ID] APP_HASH=[APP_HASH= TDLIB_COMMAND=libtdjson.so node test.js
 
 test.js:
 
