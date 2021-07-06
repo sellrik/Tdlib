@@ -5,6 +5,9 @@ https://github.com/tdlib/td
 The library failed to bulild on the raspberry pi 3b+, but I found the solution (added "link_libraries(atomic)" in the cmake file) bug report: 
 https://github.com/tdlib/td/issues/646
 
+The application needs to be registered:
+https://core.telegram.org/api/obtaining_api_id
+
 The Aigram library/wrapper can be used interface with the Telegram library:
 https://github.com/airgram/airgram
 
