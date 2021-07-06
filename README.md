@@ -2,7 +2,7 @@ The Telegram library can be used by from many languages including javascript.
 There are no pre-build files provided, the building instructions can be found here:
 https://github.com/tdlib/td
 
-The library failed to bulild on the raspberry pi 3b+, but I found the solution (added link_libraries(atomic) int the cmake file) bug report: 
+The library failed to bulild on the raspberry pi 3b+, but I found the solution (added "link_libraries(atomic)" in the cmake file) bug report: 
 https://github.com/tdlib/td/issues/646
 
 The Aigram library/wrapper can be used interface with the Telegram library:
